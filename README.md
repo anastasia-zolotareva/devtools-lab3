@@ -18,3 +18,7 @@ description: О проекте
 * Экскурсии по дворам и парадным города
 * Прогулки на сапбордах
 * Пешие экскурсии по городу в сопровождении опытных гидов
+
+{% content-ref url="docs/otchet-po-rabote.md" %}
+[otchet-po-rabote.md](docs/otchet-po-rabote.md)
+{% endcontent-ref %}
