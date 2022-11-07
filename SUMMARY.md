@@ -2,12 +2,9 @@
 
 ## 💡 Ideas\&Description
 
-* [DevTools-lab3](README.md)
+* [🥑 DevTools-lab3](README.md)
 
-## 🛠 Technical Description
+## 📂 docs
 
-* [Main things](technical-description/main-things.md)
-
-## 📋 Отчет по работе
-
-* [Отчет по работе](otchet-po-rabote/otchet-po-rabote.md)
+* [🛠 Technical Description](docs/technical-description.md)
+* [📋 Отчет по работе](docs/otchet-po-rabote.md)

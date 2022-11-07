@@ -2,7 +2,7 @@
 description: О проекте
 ---
 
-# DevTools-lab3
+# 🥑 DevTools-lab3
 
 ### Some project for devtools lab
 

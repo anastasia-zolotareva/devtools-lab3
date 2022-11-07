@@ -2,7 +2,7 @@
 description: Main technical staff
 ---
 
-# Main things
+# 🛠 Technical Description
 
 Проект на React: js+html+css
 
