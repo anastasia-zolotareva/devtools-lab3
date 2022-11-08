@@ -1,6 +1,11 @@
 import React from "react";
 import classes from "./List.module.css";
-
+/**
+ * Лист элементов
+ * 
+ * @param {any} props - параметры, передаваемые из родительского элемента
+ * @return {import("react").DOMElement}
+ */
 const List = ({...props}) => {
     return (
         <div className={classes.list}>
