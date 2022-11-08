@@ -1,11 +1,16 @@
 .navbar {
     background-color: var(--color-add1);
     flex-direction: row;
-    justify-content: center;
-    align-content: center;
 
     padding: 10px 0;
     width: 100vw;
 
     color: white;
+}
+.navbar * {
+    margin: 10px 10px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Fregat', Arial, Helvetica, sans-serif;
+    text-decoration: none;
 }
