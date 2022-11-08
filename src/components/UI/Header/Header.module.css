@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.header .title {
+    padding: 20px 0;
+}
+.header h1 {
+    color: var(--ext-color1);
+}
+.header p {
+    font-family: 'Gunny Rewritten', Arial, Helvetica, sans-serif;
+    color: var(--ext-color2);
+    font-size: 20px;
+}

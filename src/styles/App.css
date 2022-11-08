@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+#root, html, body {
+    height: 100%;
+}
+@import "//fonts.fontstorage.com/import/gunnyrewritten.css";
+@import "//fonts.fontstorage.com/import/fregat.css";
+/* 'Gunny Rewritten' */
+body {
+    --main-color: #A67968;
+    --color-add1: #593825;
+    --color-add2: #D9AB9A;
+    --ext-color1: #F2D022;
+    --ext-color2: #401B13;
+    font-family: 'Fregat', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: var(--main-color);
+    color: var(--ext-color2);
+}
+.App {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.App .content {
+    flex: 1 0 auto;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--color-add2);
+    width: 75%;
+}
