@@ -8,7 +8,6 @@
 }
 @import "//fonts.fontstorage.com/import/gunnyrewritten.css";
 @import "//fonts.fontstorage.com/import/fregat.css";
-/* 'Gunny Rewritten' */
 body {
     --main-color: #A67968;
     --color-add1: #593825;
@@ -28,8 +27,8 @@ body {
 .App .content {
     flex: 1 0 auto;
     align-self: center;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    padding: 20px 0;
 
     background-color: var(--color-add2);
     width: 75%;
