@@ -1,7 +1,12 @@
 import React from "react";
 import classes from "./Navbar.module.css";
 import { Link } from "react-router-dom";
-
+/**
+ * Навигация
+ * 
+ * @param {any} props - параметры, передаваемые из родительского элемента
+ * @return {import("react").DOMElement}
+ */
 const Navbar = () => {
     return (
         <div className={classes.navbar}>

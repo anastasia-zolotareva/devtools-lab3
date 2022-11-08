@@ -1,6 +1,11 @@
 import React from "react";
 import List from "./../components/UI/List/List";
-
+/**
+ * Содержание главной страницы
+ * 
+ * @param {any} props - параметры, передаваемые из родительского элемента
+ * @return {import("react").DOMElement}
+ */
 const MainPage = ({...props}) => {
     return (
         <div className="content">

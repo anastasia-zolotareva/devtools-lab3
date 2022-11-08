@@ -6,7 +6,11 @@ import {Route, BrowserRouter, Routes} from "react-router-dom";
 import MainPage from "./pages/Main";
 import Services from "./pages/Services";
 import AboutUs from "./pages/AboutUs";
-
+/**
+ * App function
+ * 
+ * @returns {import("react").DOMElement}
+ */
 function App() {
   return (
     <BrowserRouter>
