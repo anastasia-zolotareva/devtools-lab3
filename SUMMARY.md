@@ -7,4 +7,5 @@
 ## 📂 docs
 
 * [🛠 Technical Description](docs/technical-description.md)
-* [📋 Отчет по работе](docs/otchet-po-rabote.md)
+* [📋 Отчет по работе](docs/otchet-po-rabote/README.md)
+  * [Описание доски](docs/otchet-po-rabote/opisanie-doski.md)

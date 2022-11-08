@@ -14,6 +14,10 @@ description: Ведение проекта
 go to Trello
 {% endembed %}
 
+{% content-ref url="opisanie-doski.md" %}
+[opisanie-doski.md](opisanie-doski.md)
+{% endcontent-ref %}
+
 ### Система ведения документации
 
 В проекте используются GitPages, поскольку здесь можно также интегрироваться с github, удобно оформлять страницы

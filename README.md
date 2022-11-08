@@ -19,6 +19,6 @@ description: О проекте
 * Прогулки на сапбордах
 * Пешие экскурсии по городу в сопровождении опытных гидов
 
-{% content-ref url="docs/otchet-po-rabote.md" %}
-[otchet-po-rabote.md](docs/otchet-po-rabote.md)
-{% endcontent-ref %}
+{% embed url="https://nastyazolotareva199.gitbook.io/devtools-lab3-project/" %}
+go to GitBook
+{% endembed %}
